@@ -1,0 +1,38 @@
+<annotation>
+	<folder>battery samples</folder>
+	<filename>00001235.jpg</filename>
+	<path>C:\Users\jwchi\Downloads\archive (9)\dataset\dataset\train\images\battery samples\00001235.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>battery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>297</ymin>
+			<xmax>334</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>battery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>254</ymin>
+			<xmax>419</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

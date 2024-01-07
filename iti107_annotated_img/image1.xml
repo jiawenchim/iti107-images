@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00000011.jpg</filename>
+	<path>C:\Users\jwchi\Downloads\archive (9)\dataset\dataset\train\images\00000011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>99</ymin>
+			<xmax>285</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>288</ymin>
+			<xmax>420</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>
